@@ -22,3 +22,8 @@ The primary source of Data used here is Data Sale. csv and this is an open sourc
 - SQL Server (For Querying and Analysis)
 - Power Bi (For creating report)
 - Ms Power Point (For presentation)
+``` SQL
+SELECT A, B, C
+WHERE A >15
+
+```
